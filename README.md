@@ -1,7 +1,5 @@
 # API-to-PostgreSQL
-Absolutely. Here’s a fictional but realistic README-style example for a project that pulls data from an API and inserts it into a PostgreSQL database using Python.
 
-⸻
 
 📦 Project: CoffeeChain – Retail Inventory Sync
 
